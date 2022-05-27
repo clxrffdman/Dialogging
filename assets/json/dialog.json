@@ -1,17 +1,23 @@
 [
 	[
 		{
-			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"speaker" : "neptune",
+			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of San Francisco.",
 			"newSpeaker" : "true"
+			
 		},
 		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
-		},
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker" : "true"
+		}, 
 		{	
 			"speaker" : "homer",
 			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home."
+		},
+		{	
+			"speaker" : "homer",
+			"dialog" : "Unfortunately, while waiting for the bus to get there, the bus ended up being late. Despite this, he confinued walking on foot."
 		},
 		{	
 			"speaker" : "homer",
